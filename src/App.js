@@ -2,7 +2,7 @@ function App() {
   return (
     <div className="App">
       <div className="content">
-        <h1>Learn React</h1>
+        <h1>HFFFL THROUGH THE YEARS 😄</h1>
       </div>
     </div>
   );
